@@ -1,0 +1,15 @@
+{
+    "welcome": "Bienvenue !",
+    "about": "À propos",
+    "about_description": "Bonjour ! Je m'appelle Leonard, un développeur junior passionné avec un vif intérêt pour le développement web, le design graphique et le développement de jeux. Je suis enthousiaste à l'idée de partager avec vous mon parcours et de présenter certains de mes projets qui reflètent mes compétences et ma créativité.",
+    "projects": "Projets",
+    "contact_intro": "Désirez-vous prendre contact ?",
+    "this_website": "Ce site web !",
+    "description_transcendence": "Un projet de site web entièrement dockerisé pour jouer à des jeux de Pong, réalisé avec le framework Django et utilisant ThreeJS pour des graphismes 3D impressionnants ! Ce projet d'équipe inclut également la possibilité de jouer contre une IA et comprend des fonctionnalités de sécurité, telles qu'un pare-feu ainsi que Vault.",
+    "description_irc": "Un projet d'étude sur la création d'un serveur IRC, basé sur le protocole IRC. Le serveur est codé en C++ et inclut des commandes d'administration de base pour la gestion des salons de discussion.",
+    "description_inception": "Un projet visant à apprendre les bases de l'utilisation des Docker, en créant un réseau Docker pour héberger un site web Wordpress. Le réseau inclut Wordpress, MariaDB comme base de données, et Nginx pour le serveur.",
+    "description_website": "Ce site web est également un de mes projets ! Je l'ai créé en utilisant VueJs comme framework, et ThreeJS pour les éléments 3D. J'ai voulu être créatif avec ce site web, et créer un portfolio qui reflète mon univers et mon travail. J'espère que vous l'apprécierez !",
+    "description_cube3d": "Un projet graphique visant à recréer un ancien FPS en utilisant des graphismes 3D simulés. Rien de tel qu'un jeu à l'ancienne comme Wolfenstein ! Réalisé en C avec une bibliothèque d'affichage appelée MinilibX.",
+    "link": "Lien vers le projet",
+    "educational": "Parcours"
+}

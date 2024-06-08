@@ -1,0 +1,16 @@
+{
+    "welcome": "Welcome !",
+    "about": "About me",
+    "about_description": "Hello! I'm Leonard, a passionate junior developer with a keen interest in web development, graphic design, and game development. I'm excited to share with you my journey and showcase some of my projects that reflect my skills and creativity.",
+    "projects": "Projects",
+    "contact_intro": "Interested in connecting ?",
+    "this_website": "This website !",
+    "description_transcendence": "A full dockerized website project for playing Pong games, made with the Django framework, and using ThreeJS for awesome 3D pong graphics ! This team project also includes playing versus an AI, and include security features, such as a firewall and vault.",
+    "description_irc": "A study project about making an IRC server, based on the IRC protocol. The server is coded in C++, and includes basic admin commands for managing chat rooms.",
+    "description_inception": "A project aimed at learning the basics of dockers usage, by making a docker network for hosting a Wordpress website. The network includes Wordpress, MariaDB as a database, and Nginx for the server.",
+    "description_website": "This website is also a project of mine ! I created it using VueJs as a framework, and ThreeJS for the 3D elements. I wanted to be creative with this website, and create a portfolio that reflect on my universe and my work. Hope you like it !",
+    "description_cube3d": "A graphical project about recreating an old FPS using fake 3D graphics. Nothing like an old school Wolfenstein game ! Made in C with a display library called MinilibX.",
+    "link": "Project link",
+    "educational": "Educational background"
+}
+
