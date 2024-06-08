@@ -28,7 +28,7 @@ const { t } = useI18n();
         <template #description>
             <p>{{ t('description_cube3d') }}</p>
         </template>
-        <template #link><a href="https://github.com/LeonMauriceArt/ft_transcendence">{{ t('link') }}</a></template>
+        <template #link><a href="https://github.com/LeonMauriceArt/Cube_3D">{{ t('link') }}</a></template>
     </ProjectItem>
     <ProjectItem>
         <template #media-left>
@@ -38,7 +38,7 @@ const { t } = useI18n();
         <template #description>
             <p>{{ t('description_irc') }}</p>
         </template>
-        <template #link><a href="https://github.com/LeonMauriceArt/ft_transcendence">{{ t('link') }}</a></template>
+        <template #link><a href="https://github.com/bkaboa/new_irc">{{ t('link') }}</a></template>
     </ProjectItem>
     <ProjectItem>
         <template #media-right>
