@@ -43,7 +43,7 @@ export default {
     loadModel() {
       const loader = new GLTFLoader();
       loader.load(
-        '/src/assets/glb/cartoon_head.glb',
+        '/assets/glb/cartoon_head.glb',
         (gltf) => {
           this.model = gltf.scene;
           this.model.scale.setScalar(0.2);
