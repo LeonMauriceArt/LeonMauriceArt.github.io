@@ -41,7 +41,7 @@ export default {
       this.$refs.container.appendChild(this.renderer.domElement);
     },
     loadModel() {
-        const texture = new THREE.TextureLoader().load('/src/assets/icons/cursor.png')
+        const texture = new THREE.TextureLoader().load('/assets/icons/cursor.png')
         const material = new THREE.MeshLambertMaterial({map : texture, transparent: true});
         this.model = new THREE.Mesh(new THREE.PlaneGeometry(1516, 2400), material);
         this.model.scale.setScalar(0.0003);

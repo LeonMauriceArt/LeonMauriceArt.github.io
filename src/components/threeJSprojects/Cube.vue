@@ -69,7 +69,7 @@ export default {
     loadModel() {
       const loader = new OBJLoader();
       loader.load(
-        '/src/assets/obj/roundedcube.obj',
+        '/assets/obj/roundedcube.obj',
         (obj) => {
           this.model = obj;
           const newMaterial = new THREE.MeshToonMaterial({ color: 0xe8d1ff});

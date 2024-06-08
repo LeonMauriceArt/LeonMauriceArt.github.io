@@ -69,7 +69,7 @@ export default {
     loadModel() {
       const loader = new OBJLoader();
       loader.load(
-        '/src/assets/obj/spinningtop.obj',
+        '/assets/obj/spinningtop.obj',
         (obj) => {
           this.model = obj;
           const newMaterial = new THREE.MeshStandardMaterial({ color: 0xe8d1ff});

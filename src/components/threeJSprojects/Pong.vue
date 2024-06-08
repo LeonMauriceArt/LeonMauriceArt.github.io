@@ -44,7 +44,7 @@ export default {
     loadModel() {
       const loader = new GLTFLoader();
       loader.load(
-        '/src/assets/glb/pong.glb',
+        '/assets/glb/pong.glb',
         (gltf) => {
           this.model = gltf.scene;
           this.model.scale.setScalar(0.08);

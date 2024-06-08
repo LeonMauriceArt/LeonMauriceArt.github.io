@@ -43,7 +43,7 @@ export default {
     loadModel() {
       const loader = new OBJLoader();
       loader.load(
-        '/src/assets/obj/irc.obj',
+        '/assets/obj/irc.obj',
         (obj) => {
           this.model = obj;
         const dotsMaterial = new THREE.MeshToonMaterial({ color: 0xdca5f3});
