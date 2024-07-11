@@ -38,7 +38,7 @@ import CartoonHead from './threeJSprojects/CartoonHead.vue';
 h1 {
     font-family: "comfortaa";
     margin: 50px;
-    color: lightgrey;
+    color: white;
 }
 
 .presentation h1 {
@@ -51,6 +51,7 @@ h1 {
 
 p {
     text-align: justify;
+    color: white;
     font-family: "Lucida Console", "Courier New", monospace;
     margin-top: 50px;
 }
