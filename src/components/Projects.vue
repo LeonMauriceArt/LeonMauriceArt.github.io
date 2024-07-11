@@ -65,5 +65,6 @@ const { t } = useI18n();
 p {
     text-align : justify;
     font-family: "Lucida Console", "Courier New", monospace;
+    color: red;
 }
 </style>
